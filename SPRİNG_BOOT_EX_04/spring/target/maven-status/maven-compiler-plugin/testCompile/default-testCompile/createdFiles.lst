@@ -1,0 +1,3 @@
+com\spring\tests\ApplicationTests.class
+com\spring\tests\SpringContextTest.class
+com\spring\tests\SpringBootBootstrapLiveTest.class

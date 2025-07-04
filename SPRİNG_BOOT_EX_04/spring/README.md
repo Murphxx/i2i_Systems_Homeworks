@@ -1,0 +1,3 @@
+# Spring Boot Kitap Yönetim Uygulaması
+
+Bu projede, Spring Boot kullanılarak kitap yönetimi için güçlü bir backend altyapısı oluşturulmuştur. Kitap ekleme, listeleme, güncelleme ve silme gibi tüm CRUD işlemleri BookController üzerinden yönetilmektedir. Kitap verileri, H2 bellek içi veritabanında saklanmakta ve Spring Data JPA ile BookRepository arayüzü üzerinden erişilmektedir. Book modeli ile veritabanı ilişkisi tanımlanmış, API endpointleri hem web arayüzü hem de JSON tabanlı REST servisler olarak sunulmuştur. Proje, temiz kod yapısı ve kolay genişletilebilir mimarisiyle backend geliştirme için ideal bir örnek teşkil etmektedir. 

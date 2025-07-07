@@ -1,0 +1,1 @@
+Bu proje, Docker kullanarak VoltDB veritabanı sunucusunun çalıştırılması, DBeaver üzerinden JDBC bağlantısı kurulması, örnek bir tablo oluşturulup veri eklenmesi ve VoltDB'nin web arayüzü ile tablo ve verilerin görüntülenmesi adımlarını kapsamaktadır; ödev kapsamında, ilgili ekran görüntüleri alınarak süreç belgelendirilmiştir. 
